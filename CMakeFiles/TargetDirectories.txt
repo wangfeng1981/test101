@@ -1,0 +1,3 @@
+/Users/wangfeng/mydev/opencv/mydemos/test101/CMakeFiles/edit_cache.dir
+/Users/wangfeng/mydev/opencv/mydemos/test101/CMakeFiles/rebuild_cache.dir
+/Users/wangfeng/mydev/opencv/mydemos/test101/CMakeFiles/test101.dir
